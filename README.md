@@ -3,7 +3,7 @@ Simulating gravitational waveforms of compact binary coalescences using Newtonia
 Part of Krittika Summer Projects 2022
 
 
-### Contributors:
+### Team:
 Mentor : Sagar Kumar Gupta
 Mentees : Ajinkya Naik, Nayan Telrandhe, Rehmat Singh Chawla, Taisiia Karasova, Yuvraj Sharma
 
